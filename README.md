@@ -3,8 +3,8 @@
   ----------------------------------------------------
   1. Lives in repo named EXACTLY: lakshyaagnihotri966-bit
   2. Swap YOUR_INSTAGRAM_ID / YOUR_LEETCODE_ID for your real handles.
-  3. The snake animation near the bottom needs a one-time GitHub Actions
-     setup — see snake.yml and the steps that come with this file.
+  3. No GitHub Actions needed anymore — the activity graph below renders
+     live from a public service, so you can delete .github/workflows/snake.yml.
 -->
 
 <p align="center">
@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lakshyaagnihotri966-bit/lakshyaagnihotri966-bit/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyaagnihotri966-bit&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%"/>
 </p>
 
 ## 🚀 Projects
