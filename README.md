@@ -3,8 +3,8 @@
   ----------------------------------------------------
   1. Lives in repo named EXACTLY: lakshyaagnihotri966-bit
   2. Swap YOUR_INSTAGRAM_ID / YOUR_LEETCODE_ID for your real handles.
-  3. No GitHub Actions needed anymore — the activity graph below renders
-     live from a public service, so you can delete .github/workflows/snake.yml.
+  3. Everything here is decorative and animated, none of it needs GitHub
+     Actions or activity data — safe to delete .github/workflows/snake.yml.
 -->
 
 <p align="center">
@@ -45,14 +45,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshyaagnihotri966-bit&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyaagnihotri966-bit&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyaagnihotri966-bit&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 </p>
 
 ## 🚀 Projects
 - **[Nexora](https://github.com/lakshyaagnihotri966-bit/Nexora)** — built with HTML
 - **[Smart-desk-Ai](https://github.com/lakshyaagnihotri966-bit/Smart-desk-Ai)** — built with JavaScript
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+</p>
